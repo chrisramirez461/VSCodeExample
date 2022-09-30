@@ -24,8 +24,20 @@
     margin-right: auto;
 }
 
+#onepiece-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #Naruto-Page {
-    background-image: url(/resources/images/wallpapersden.com_naruto-uzumaki-minimalist_4098x2304.jpg);
-    background-size: auto;
+    background-image: url(/resources/images/baa4723bd5264512b156fc182e40ff8c--minimalist-wallpaper-minimalist-art.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#OnePiece-Page {
+    background-image: url(/resources/images/7b43772c333c8bae17155a929897ccfa.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
 }
