@@ -6,8 +6,26 @@
 }
 
 .intro {
-    background-image: url(./images/Big-Thre-768x432.jpg);
+    background-image: url(/resources/images/Big-Thre-768x432.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#bleach-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#naruto-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Naruto-Page {
+    background-image: url(/resources/images/wallpapersden.com_naruto-uzumaki-minimalist_4098x2304.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
 }
